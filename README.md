@@ -14,3 +14,4 @@
 <br>
 
 ![效果图预览](https://github.com/WangLiquan/EWToast/raw/master/images/demonstration.gif)
+博客 https://www.cnblogs.com/sundaysme/articles/10735169.html
